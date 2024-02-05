@@ -1,4 +1,4 @@
-![MasterHead](https://upload-bbs.miyoushe.com/upload/2022/10/17/73565430/4bc7cdb3edc722f3fd81b11130714c7f_8719525187148128947.png?x-oss-process=image/auto-orient,0/interlace,1/format,png)
+![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/2037371041245806805/3F882DB2C9B9218FA390B5D414A4CB5B30CF5A4D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 <h1 align="center">Hi 👋, I'm Lance</h1>
 <h3 align="center">A Computer Programming Student in Canada</h3>
 <img align="right" alt="Coding" width="400" src=https://steamuserimages-a.akamaihd.net/ugc/2047482034942683256/6EA887BE67244A2742B97D2D4F7BB45E9F5CE0BC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
